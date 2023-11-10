@@ -1,0 +1,137 @@
+{
+  "videos": [
+    {
+      "id": "2",
+      "caption": "kalapakara king of kotha",
+      "url": "https://i.ytimg.com/vi/BDnJgaHduXo/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "3",
+      "caption": "jhony mone jhony monee",
+      "url": "https://th.bing.com/th/id/OIP.iCbgTr6N3sikzjNVfKQIkwHaIJ?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/YMcC95uFVCs"
+    },
+    {
+      "id": "4",
+      "caption": "akale 9 flim",
+      "url": "https://static.moviecrow.com/gallery/20180419/135689-nine%20po.jpg",
+      "embedLink": "https://www.youtube.com/embed/FvDWCXN_dDs"
+    },
+    {
+      "id": "5",
+      "caption": "malabar bangar",
+      "url": "https://i.ytimg.com/vi/HR8-1xvfey8/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/DvS1rlMA64c"
+    },
+    {
+      "id": "6",
+      "caption": "koddda thullu",
+      "url": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_1316/https://media.insider.in/image/upload/c_crop%2Cg_custom/v1573942458/xioiryoujpzqlxjobdva.png",
+      "embedLink": "https://www.youtube.com/embed/ZWflYT8LVhE"
+    },
+    {
+      "id": "7",
+      "caption": "villan yaru leo",
+      "url": "https://assetscdn1.paytm.com/images/cinema/Leo-app-e6032730-a462-11ed-9858-d143c091363e.jpg",
+      "embedLink": "https://www.youtube.com/embed/M694ziOHze0"
+    },
+    {
+      "id": "8",
+      "caption": "after hours",
+      "url": "https://leslecturesdhatchi.files.wordpress.com/2020/04/the-weeknd-after-hours-album-lyrics-and-tracklist.jpg?w=1200",
+      "embedLink": "https://www.youtube.com/embed/ygTZZpVkmKg"
+    },
+    {
+      "id": "9",
+      "caption": "hurts so good",
+      "url": "https://c.saavncdn.com/139/Hurts-So-Good-English-2016-500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/4fqwVBuunxY"
+    },
+    {
+      "id": "10",
+      "caption": "chelya jawan song",
+      "url": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2023/jawan/jawan-poster-4.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "11",
+      "caption": "zinda binda JAWAN",
+      "url": "https://th.bing.com/th/id/OIP.lnoNOddOEIecNKfxnCGCWAHaEK?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/AQEc4BwX6dk"
+    },
+    {
+      "id": "12",
+      "caption": "Hukum hum JAILER",
+      "url": "https://th.bing.com/th/id/OIP.zHh4arWkUGOB_sY-QbOjLAHaHa?pid=ImgDet&rs=1",
+      "embedLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    },
+    {
+      "id": "16",
+      "caption": "100 DAYS OF LOVE",
+      "url": "https://i.pinimg.com/originals/3a/11/96/3a11969b6f59a245594f9f70635ebbae.jpg",
+      "embedLink": "https://www.youtube.com/embed/cI7UIlMgT00"
+    }
+  ],
+  "categories": [
+    {
+      "CategoryName": "Hindi Songs",
+      "allvideos": [
+        {
+          "id": "1",
+          "caption": "badass",
+          "url": "https://juksun.com/wp-content/uploads/2023/02/Leo-Movie-2023.jpg",
+          "embedLink": "https://www.youtube.com/embed/IqwIOlhfCak"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Tamil Songs",
+      "allvideos": [],
+      "id": 2
+    },
+    {
+      "CategoryName": "malayalam Songs",
+      "allvideos": [],
+      "id": 3
+    },
+    {
+      "CategoryName": "Telegu Songs",
+      "allvideos": [],
+      "id": 4
+    },
+    {
+      "CategoryName": "English Songs",
+      "allvideos": [
+        {
+          "id": "8",
+          "caption": "after hours",
+          "url": "https://leslecturesdhatchi.files.wordpress.com/2020/04/the-weeknd-after-hours-album-lyrics-and-tracklist.jpg?w=1200",
+          "embedLink": "https://www.youtube.com/embed/ygTZZpVkmKg"
+        },
+        {
+          "id": "9",
+          "caption": "hurts so good",
+          "url": "https://c.saavncdn.com/139/Hurts-So-Good-English-2016-500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/4fqwVBuunxY"
+        },
+        {
+          "id": "9",
+          "caption": "hurts so good",
+          "url": "https://c.saavncdn.com/139/Hurts-So-Good-English-2016-500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/4fqwVBuunxY"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "History": [
+    {
+      "caption": "jhony mone jhony monee",
+      "embedLink": "https://www.youtube.com/embed/YMcC95uFVCs",
+      "timestamp": "08/11/2023, 14:00:29",
+      "id": 1
+    }
+  ]
+}
